@@ -5,5 +5,6 @@
 ⚡I believe that lifelong learning and I love programming and learning new things
 
 🌱I'm currently learning 'Java and React' and working on OOP
+
 🤔I’m looking for an internship place.
 
