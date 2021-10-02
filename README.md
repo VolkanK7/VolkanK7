@@ -1,4 +1,4 @@
-### Hi there I'm Volkan👋
+## Hi there I'm Volkan👋
 
 🔭I am a Computer Engineering student at the Suleyman Demirel University(4/4).
 
@@ -8,3 +8,7 @@
 
 🤔I’m looking for an internship place.
 
+## Contect me
+linkedin.com/in/volkann7/
+
+volkan.kaya007@gmail.com
