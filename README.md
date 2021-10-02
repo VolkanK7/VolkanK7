@@ -9,6 +9,6 @@
 🤔I’m looking for an internship place.
 
 ## Contect me
-linkedin.com/in/volkann7/
+www.linkedin.com/in/volkann7/
 
 volkan.kaya007@gmail.com
